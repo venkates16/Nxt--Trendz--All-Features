@@ -1,0 +1,19 @@
+.cart-list {
+  padding-left: 0px;
+}
+.btnRemove {
+  background-color: transparent;
+  border-width: 0px;
+  border: 2px solid blue;
+  color: rgb(91, 91, 202);
+  font-size: 28px;
+  cursor: pointer;
+  padding: 12px;
+  border-radius: 8px;
+  font-weight: 600;
+}
+.cardBtnRemove {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 12px;
+}

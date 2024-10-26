@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.price {
+  font-weight: 800;
+}
+
+.checkOutBtn {
+  background-color: rgb(103, 103, 215);
+  color: white;
+  width: 120px;
+  border-width: 0px;
+  cursor: pointer;
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.alignOrder {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.cartPriceAlign {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 20px 0px;
+}
